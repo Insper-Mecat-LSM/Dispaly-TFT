@@ -1,6 +1,6 @@
-Autor: Henrique Rosa  [link](https://github.com/https://github.com/Henriquer88)
+Autor: Henrique Rosa  [link](https://github.com/Henriquer88)
 
-Repositóio no MBED [link](https://os.mbed.com/users/henriquer/code/)
+Repositório no MBED [link](https://os.mbed.com/users/henriquer/code/)
 # Shield-TFT
 Primeiros passos com o Shield TFT
 
