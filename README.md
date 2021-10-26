@@ -729,15 +729,6 @@ void loop()
 <a href="https://imgur.com/7citGbp"><img src="https://i.imgur.com/7citGbp.gif" title="source: imgur.com" /></a>
 
 ## Observações 
- As bibliotecas utilizadas nos exemplos estão implementadas apenas para alguns modelos de Nucleo, são elas:
- 
- * F072RB
- * F103RB
- * F401RE
- * F411RE
- * F446RE
- * L4333RC
- * L476RG
- * F767ZI
+ As bibliotecas utilizadas nos exemplos foram testadas nas placas F103 e F401
 
- Caso queira incluir um novo modelo de placa, devemos adicionar um novo Target na biblioteca MCUFRIEND_kbv - utility - pin_shield.h
+  * Caso queira incluir um novo modelo de placa, devemos adicionar um novo Target na biblioteca MCUFRIEND_kbv - utility - pin_shield.h
