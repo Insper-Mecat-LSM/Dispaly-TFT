@@ -99,7 +99,13 @@ void loop()
 {
 
 }
-
+int main(void)
+{
+    setup();
+    while (1) {
+        loop();
+    }
+}
 
 ```
 Compilando esse código no MBED, teremos o resultado abaixo :
@@ -187,6 +193,14 @@ void loop()
 {
 
 }
+
+int main(void)
+{
+    setup();
+    while (1) {
+        loop();
+    }
+}
 ```
 
 Compilando esse código no MBED, teremos o resultado abaixo :
@@ -273,6 +287,15 @@ void loop()
 {
 
 }
+
+int main(void)
+{
+    setup();
+    while (1) {
+        loop();
+    }
+}
+
 ```
 Para desenharmos um círculo, utilizamos a função  **tft.drawCircle(X,Y,R,COR)**
 *  X   Deslocamento  do retañgulo no plano X
@@ -353,6 +376,14 @@ void setup(void)
 void loop()
 {
 
+}
+
+int main(void)
+{
+    setup();
+    while (1) {
+        loop();
+    }
 }
   ```
   
@@ -468,6 +499,14 @@ void loop()
 {
 
 
+}
+
+int main(void)
+{
+    setup();
+    while (1) {
+        loop();
+    }
 }
 
 
@@ -706,6 +745,13 @@ void loop()
 
 }
 
+int main(void)
+{
+    setup();
+    while (1) {
+        loop();
+    }
+}
  ```
  Compilando esse código no MBED, teremos o seguinte resultado:
  
