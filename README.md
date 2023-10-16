@@ -10,11 +10,11 @@
 3. Clique em Add Project e espere o projeto ser carregado
 4. Procure no canto inferior esquerdo da sua tela o ícone do Git e a palavra main, clique nele
 
-![image](https://github.com/Insper-Mecat-LSM/Dispaly-TFT/assets/26482377/d4c139d0-ccd8-4f5b-acf5-b527f252e384)
+	![image](https://github.com/Insper-Mecat-LSM/Dispaly-TFT/assets/26482377/d4c139d0-ccd8-4f5b-acf5-b527f252e384)
 
 5. Agora vai aparecer no centro de sua tela uma opção para você selecionar uma Branch, selecione a master
 
-![image](https://github.com/Insper-Mecat-LSM/Dispaly-TFT/assets/26482377/27756aa2-9999-49da-9e86-f6d601dd85c5)
+	![image](https://github.com/Insper-Mecat-LSM/Dispaly-TFT/assets/26482377/27756aa2-9999-49da-9e86-f6d601dd85c5)
 
 6. Agora cole no arquivo main.cpp um dos exemplos de display TFT e selecione a NUCLEO-F103RB como Build target
 7. O projeto está pronto para ser compilado!
